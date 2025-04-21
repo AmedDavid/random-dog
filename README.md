@@ -2,6 +2,8 @@
 
 This is a beginner-friendly React app that demonstrates how to fetch data from an external API using the `useEffect` hook, manage state with `useState`, and build a more interactive, responsive, and engaging user experience.
 
+![alt text](image.png)
+
 ---
 
 ## Learning Goals
@@ -41,7 +43,7 @@ Displays an animated spinner while the API is fetching data.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-dog.git
+   git clone https://github.com/AmedDavid/random-dog.git
    cd random-dog
    ```
 
